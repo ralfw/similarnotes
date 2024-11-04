@@ -1,0 +1,1 @@
+Echoortung funktioniert, indem ein Tier (wie eine Fledermaus) Schallwellen aussendet und dann die Echos dieser Wellen analysiert, die von Objekten in der Umgebung reflektiert werden. Die Zeitverzögerung, die Lautstärke und die Frequenzverschiebung des Echos geben Informationen über die Entfernung, Größe und Textur der Objekte.
